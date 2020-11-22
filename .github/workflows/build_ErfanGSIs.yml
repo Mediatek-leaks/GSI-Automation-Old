@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_13.W.37_GLO_037_2006051457/OnePlus7Oxygen_13.W.37_OTA_037_all_2006051457_8a8e443f3247.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS10_OP7_GSI_by_TechyMinati
+  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=OQAf&id=1-GmyJ-uhJX8q0NcPqahhVrrVCsyKiskt
+  ROM_NAME: Generic
+  ZIP_NAME: FusionOS_A10_GSI_by_TechyMinati
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
