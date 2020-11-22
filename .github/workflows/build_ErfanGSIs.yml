@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=OQAf&id=1-GmyJ-uhJX8q0NcPqahhVrrVCsyKiskt
-  ROM_NAME: Generic
-  ZIP_NAME: FusionOS_A10_GSI_by_TechyMinati
+  ROM_URL: https://bigota.d.miui.com/V12.0.6.0.QCDINXM/miui_DANDELIONINGlobal_V12.0.6.0.QCDINXM_5fe64a6147_10.0.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI12_Dandelion_A10_GSI_by_TechyMinati
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
