@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/NordOxygen_14.I.11_OTA_011_all_2010232007_3cc5feaae2fd4433.zip
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7Oxygen/OnePlus7Oxygen_13.W.37_GLO_037_2006051457/OnePlus7Oxygen_13.W.37_OTA_037_all_2006051457_8a8e443f3247.zip
   ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS10_Nord_GSI_by_TechyMinati
+  ZIP_NAME: OxygenOS10_OP7_GSI_by_TechyMinati
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
