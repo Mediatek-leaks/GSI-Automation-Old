@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5Oxygen/OnePlus5Oxygen_23.J.69_GLO_069_2010292138/OnePlus5Oxygen_23_OTA_069_all_2010292138_6700.zip
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.41_GLO_041_1911142043/OnePlus6Oxygen_22_OTA_041_all_1911142043_dde113e53cd0f9.zip
   ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS_GSI_by_TechyMinati
+  ZIP_NAME: OxygenOS10_OP6_GSI_by_TechyMinati
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
@@ -43,7 +43,7 @@ jobs:
 
        
        - name: Clone ErfanGSI Source Code
-         run: git clone --recurse-submodules https://github.com/erfanoabdi/ErfanGSIs
+         run: git clone --recurse-submodules https://github.com/techyminati/ErfanGSIs
        
        - name: Setting up ErfanGSI requirements
          run: |
