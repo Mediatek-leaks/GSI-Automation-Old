@@ -18,7 +18,7 @@ env:
   ROM_NAME: OxygenOS
   ZIP_NAME: OxygenOS_GSI_by_TechyMinati
   TZ: Asia/Kolkata
-  MIR: bit
+  MIR: wet
 jobs:
   build:
     runs-on: ubuntu-latest
