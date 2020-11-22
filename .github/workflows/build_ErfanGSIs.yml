@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
-  ROM_NAME: ColorOS
-  ZIP_NAME: realmeUI1.0_C11_GSI_by_TechyMinati
+  ROM_URL: https://oxygenos.oneplus.net/NordOxygen_14.I.11_OTA_011_all_2010232007_3cc5feaae2fd4433.zip
+  ROM_NAME: OxygenOS
+  ZIP_NAME: OxygenOS10_Nord_GSI_by_TechyMinati
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
