@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2FRMX1901%2FRevengeOS-4.0-R-OFFICIAL-RMX1901-20201010-0800.zip
+  ROM_URL: https://drive.google.com/uc?export=download&confirm=Cm40&id=1MRHwF0OohO489YW2WCVzSQ6Cm-ykNFHl
   ROM_NAME: Generic
   ZIP_NAME: MIUI12_from_RN9_GSI_by_TechyMinati
   TZ: Asia/Kolkata
