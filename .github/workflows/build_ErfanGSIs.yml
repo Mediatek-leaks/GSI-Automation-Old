@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/uc?export=download&confirm=Cm40&id=1MRHwF0OohO489YW2WCVzSQ6Cm-ykNFHl
-  ROM_NAME: Generic
-  ZIP_NAME: RevengeOS_4.0_GSI_by_TechyMinati
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.45_GLO_045_2004142201/OnePlus6Oxygen_22_OTA_045_all_2004142201_b8f5.zip
+  ROM_NAME: OxygenOS
+  ZIP_NAME: OxygenOS_10.3.3_GSI_by_TechyMinati
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
