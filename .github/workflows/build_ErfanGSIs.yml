@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8Oxygen/OnePlus8Oxygen_15.I.17_GLO_017_2005301406/OnePlus8Oxygen_15.I.17_OTA_017_all_2005301406_50f8.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS10_OP8_GSI_by_TechyMinati
+  ROM_URL: https://bigota.d.miui.com/V12.0.5.0.QJOINXM/miui_MERLININGlobal_V12.0.5.0.QJOINXM_d9f8703e6b_10.0.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI12_from_RN9_GSI_by_TechyMinati
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
