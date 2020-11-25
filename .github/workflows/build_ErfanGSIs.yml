@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.45_GLO_045_2004142201/OnePlus6Oxygen_22_OTA_045_all_2004142201_b8f5.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS_10.3.3_GSI_by_TechyMinati
+  ROM_URL: https://bigota.d.miui.com/V11.0.9.0.QJCMIXM/miui_LANCELOTGlobal_V11.0.9.0.QJCMIXM_5331114c25_10.0.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI12_from_Lancelot_GSI_by_TechyMinati
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
